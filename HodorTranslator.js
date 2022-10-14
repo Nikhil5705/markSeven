@@ -2,7 +2,7 @@ var btn = document.querySelector("#btn");
 var input = document.querySelector("#input");
 var outputdiv = document.querySelector("#outputdiv");
 
-var url = "https://api.funtranslations.com/translate/minion.json"
+var url = "https://api.funtranslations.com/translate/hodor.json"
 btn.addEventListener("click", clickHandler)
 
 function clickHandler() {
